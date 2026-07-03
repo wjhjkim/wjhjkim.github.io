@@ -1,7 +1,7 @@
 ---
 title:          "ReDi: Rectified Discrete Flow"
 date:           2025-07-12 00:01:00 +0900
-selected:       false
+selected:       true
 pub:            "NeurIPS"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
