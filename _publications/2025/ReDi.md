@@ -1,5 +1,6 @@
 ---
 title:          "ReDi: Rectified Discrete Flow"
+anchor:         redi
 date:           2025-07-12 00:01:00 +0900
 selected:       true
 pub:            "NeurIPS"

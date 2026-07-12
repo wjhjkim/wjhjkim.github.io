@@ -1,5 +1,6 @@
 ---
 title:          "Infinite Mask Diffusion for Few-Step Distillation"
+anchor:         imdm
 date:           2026-05-15 00:01:00 +0900
 selected:       true
 pub:            "ICML"

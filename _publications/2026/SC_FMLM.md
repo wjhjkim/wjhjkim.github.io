@@ -1,8 +1,10 @@
 ---
 title:          "Self-conditioned Flow Map Language Models via Fixed-point Flows"
+anchor:         sc-fmlm
 date:           2026-07-01 00:01:00 +0900
 selected:       true
-pub:            "Preprint."
+# pub:            "None"
+underpub:       "Preprint."
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
