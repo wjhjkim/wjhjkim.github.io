@@ -21,7 +21,7 @@ linkedin: wonjung-kim-ab6924335
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am an M.S. student at <a href="https://vllab.kaist.ac.kr/index.php" target="_blank" rel="noopener noreferrer"><strong>VLlab</strong></a>, KAIST, supervised by Prof. <a href="https://maga33.github.io/" target="_blank" rel="noopener noreferrer"><strong>Seunghoon Hong</strong></a>, specializing in computer vision and generative M=modeling.
+    I am an M.S. student at <a href="https://vllab.kaist.ac.kr/index.php" target="_blank" rel="noopener noreferrer"><strong>VLlab</strong></a>, KAIST, supervised by Prof. <a href="https://maga33.github.io/" target="_blank" rel="noopener noreferrer"><strong>Seunghoon Hong</strong></a>, specializing in computer vision and generative modeling.
     I specialize in high-fidelity generative modeling for image and text domains, with a primary focus on few-step synthesis.
     My work extends to enhancing the efficiency of both training and inference processes for generative models.
   </p>
